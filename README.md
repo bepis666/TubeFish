@@ -1,7 +1,7 @@
 Underwater drone controlled via web interface
 
 3D Model
-!(https://github.com/bepis666/TubeFish/blob/main/Media/Images/1.png)
+![3D](https://github.com/bepis666/TubeFish/blob/main/Media/Images/1.png)
 !(https://github.com/bepis666/TubeFish/blob/main/Media/Images/2.png)
 
 Structural scheme
